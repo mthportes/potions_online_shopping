@@ -1,0 +1,32 @@
+.printButton{
+    border-radius: 5px;
+    text-align: center;
+    border: none;
+    height: 35px;
+    width: max-content;
+    background-color: pink;
+    color: black;
+    cursor: pointer;
+}
+
+.printButton:hover{
+    cursor: pointer;
+    background-color: hotpink;
+}
+
+.exportButton{
+    border-radius: 5px;
+    text-align: center;
+    border: none;
+    height: 35px;
+    width: max-content;
+    background-color: deeppink;
+    color: white;
+    cursor: pointer;
+}
+
+.exportButton:hover{
+    cursor: pointer;
+    color: black;
+    background-color: lightpink;
+}
